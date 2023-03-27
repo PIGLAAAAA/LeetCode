@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ARRAY_Remove_Duplicates_from_Sorted_Array2/1.0.0": {
+        "runtime": {
+          "ARRAY_Remove_Duplicates_from_Sorted_Array2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ARRAY_Remove_Duplicates_from_Sorted_Array2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

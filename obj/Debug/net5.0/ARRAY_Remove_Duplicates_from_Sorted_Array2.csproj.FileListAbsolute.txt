@@ -1,0 +1,16 @@
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\bin\Debug\net5.0\ARRAY_Remove_Duplicates_from_Sorted_Array2.exe
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\bin\Debug\net5.0\ARRAY_Remove_Duplicates_from_Sorted_Array2.deps.json
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\bin\Debug\net5.0\ARRAY_Remove_Duplicates_from_Sorted_Array2.runtimeconfig.json
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\bin\Debug\net5.0\ARRAY_Remove_Duplicates_from_Sorted_Array2.runtimeconfig.dev.json
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\bin\Debug\net5.0\ARRAY_Remove_Duplicates_from_Sorted_Array2.dll
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\bin\Debug\net5.0\ARRAY_Remove_Duplicates_from_Sorted_Array2.pdb
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\obj\Debug\net5.0\ARRAY_Remove_Duplicates_from_Sorted_Array2.csproj.AssemblyReference.cache
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\obj\Debug\net5.0\ARRAY_Remove_Duplicates_from_Sorted_Array2.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\obj\Debug\net5.0\ARRAY_Remove_Duplicates_from_Sorted_Array2.AssemblyInfoInputs.cache
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\obj\Debug\net5.0\ARRAY_Remove_Duplicates_from_Sorted_Array2.AssemblyInfo.cs
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\obj\Debug\net5.0\ARRAY_Remove_Duplicates_from_Sorted_Array2.csproj.CoreCompileInputs.cache
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\obj\Debug\net5.0\ARRAY_Remove_Duplicates_from_Sorted_Array2.dll
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\obj\Debug\net5.0\refint\ARRAY_Remove_Duplicates_from_Sorted_Array2.dll
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\obj\Debug\net5.0\ARRAY_Remove_Duplicates_from_Sorted_Array2.pdb
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\obj\Debug\net5.0\ARRAY_Remove_Duplicates_from_Sorted_Array2.genruntimeconfig.cache
+D:\С#\Задание матрица\LeetCode\ARRAY_Remove_Duplicates_from_Sorted_Array2\obj\Debug\net5.0\ref\ARRAY_Remove_Duplicates_from_Sorted_Array2.dll
